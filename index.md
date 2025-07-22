@@ -1,18 +1,3 @@
----
-layout: default
-title: 我的首页文章
----
-
-# 欢迎来到我的网站
-
-这里是你想展示的文章内容，支持完整的 **Markdown** 语法：
-- 列表项
-- [链接](https://example.com)
-- 甚至代码块：
-  ```python
-  print("Hello World")
-
-
 Privacy policy
 We collects data: 
 and allow we to continue to provide free services and products
