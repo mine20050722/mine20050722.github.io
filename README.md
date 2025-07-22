@@ -1,6 +1,4 @@
 # mine20050722.github.io
-
-
 Privacy policy
 We collects data: 
 and allow we to continue to provide free services and products
@@ -22,6 +20,10 @@ Google AdMob -https://policies.google.com/privacy?hl=en
 这些合作伙伴通常通过自己的工具（软件开发套件或“SDK”）收集数据。您将看到我们的合作伙伴通过我们的应用程序实施广告 SDK 及其服务的隐私政策的列表，其中描述了他们的做法，并允许您在下文中直接向他们行使您的权利：
 
 Google AdMob -https://policies.google.com/privacy?hl=en
+
+
+
+
 
 
 
